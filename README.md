@@ -16,8 +16,7 @@ The project is led by the Lake County Umbrella Watershed Council (LCUWC) in part
 ```
 upper-chewaucan-cv/
 ├── README.md              <- This file
-├── data/
-│   ├── README.md          <- Variable definitions and data description
+├── data/Upper Chewaucan Watershed Restoration Survey (Responses)
 │   └── survey_responses.xlsx  <- Raw data (add manually, not tracked in git)
 ├── analysis/
 │   └── analysis.R         <- Full analysis: cleaning, logit, WTP calculation
